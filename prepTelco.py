@@ -21,8 +21,11 @@ def clean_telco(df):
     '''
     This function will clean the data
     '''
+
+     # Drops any duplicate values
     df = df.drop_duplicates()
   
+   # Change Total_charges to a float64 type
     df['total_charges'] = df.total_charges.replace(' ', 0)
     df['total_charges'] = df.total_charges.astype('float64')
 

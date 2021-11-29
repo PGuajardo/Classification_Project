@@ -91,7 +91,32 @@ payment_type_Mailed check | encoded value
 
 Your readme should include a project plan which helps guide both the user and yourself through the different stages of the pipeline and steps you took to get to your conclusion.
 
-## Hyptheses:
+- Acquire data
+- Clean Data
+- Split data
+- Observe first questions asked
+- Create graph and observe statistical analysis
+- Observe second questions asked
+- Create graph and observe statistical analysis
+- Observe third questions asked
+- Create graph and observe statistical analysis
+- Observe fourth questions asked
+- Create graph and observe statistical analysis
+- Create baseline
+- Test model on train set
+- Create decision tree model
+- Observe Accuracy
+- Create Random forest model
+- Observe Accuracy
+- Create KNN model
+- Observe Accuracy
+- Test Models on validation set
+- Observe Accuracies
+- Test Models on test set
+- Observe Accuracies
+- Key takeaway
+- Recommendation
+- Next Step
 
 
 # Wrangle: 
