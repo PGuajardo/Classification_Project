@@ -1,3 +1,7 @@
 *.csv
 env.py
 *.json
+*.pdf
+telco_decision_tree
+telco_decision_tree2
+__pycache__
